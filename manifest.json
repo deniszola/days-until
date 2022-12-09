@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Days Until",
+  "description": "A Chrome extension to displays the number of days until a specific date.",
+  "version": "1.0.0"
+}
